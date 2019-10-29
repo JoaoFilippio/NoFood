@@ -1,0 +1,6 @@
+- Java
+- Android Studio
+- SDK Manager
+
+
+C:\Users\Pichau\AppData\Local\Android\Sdk
