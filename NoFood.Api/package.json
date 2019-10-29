@@ -12,7 +12,7 @@
     "ionic": "^5.4.4",
     "jsonwebtoken": "^8.5.1",
     "md5": "^2.2.1",
-    "mongoose": "^5.4.20",
+    "mongoose": "^5.7.5",
     "nodemon": "^1.19.4"
   },
   "devDependencies": {},
